@@ -10,30 +10,30 @@ Go has 25 reserved keywords that are integral to its syntax and cannot be used a
 
 1. Declaration Keywords
 
-break
-case
-chan
-const
-continue
-default
-defer
-else
-fallthrough
-for
-func
-go
-goto
-if
-import
-interface
-map
-package
-range
-return
-select
-struct
-switch
-type
+break,
+case,
+chan,
+const,
+continue,
+default,
+defer,
+else,
+fallthrough,
+for,
+func,
+go,
+goto,
+if,
+import,
+interface,
+map,
+package,
+range,
+return,
+select,
+struct,
+switch,
+type,
 var
 
 These keywords are essential for defining control flow, data structures, and program behavior in Go.
