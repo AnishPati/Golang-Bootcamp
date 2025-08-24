@@ -18,4 +18,4 @@ These keywords are essential for defining control flow, data structures, and pro
 Learned about packages and imports, different types of variables and datatypes, print statements, and all methods to take inputs in Golang.
 
 3rd-day:
-Learned about Arrays, Strings, Slices and Functions.
+Learned about Arrays, Strings, Slices and Functions. There are diffrent methods to initialize an array, a string and a slice. Learned how to write different kind of functions in Golang.
