@@ -16,3 +16,6 @@ These keywords are essential for defining control flow, data structures, and pro
 
 2nd-day:
 Learned about packages and imports, different types of variables and datatypes, print statements, and all methods to take inputs in Golang.
+
+3rd-day:
+Learned about Arrays, Strings, Slices and Functions.
